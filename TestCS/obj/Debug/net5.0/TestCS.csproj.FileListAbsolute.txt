@@ -1,0 +1,15 @@
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/TestCS.deps.json
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/TestCS.runtimeconfig.json
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/TestCS.runtimeconfig.dev.json
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/TestCS.dll
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/ref/TestCS.dll
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/bin/Debug/net5.0/TestCS.pdb
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.csproj.AssemblyReference.cache
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.AssemblyInfoInputs.cache
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.AssemblyInfo.cs
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.csproj.CoreCompileInputs.cache
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.dll
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/ref/TestCS.dll
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.pdb
+/Users/ethanchew/Documents/Programs/TestCS/TestCS/obj/Debug/net5.0/TestCS.genruntimeconfig.cache
